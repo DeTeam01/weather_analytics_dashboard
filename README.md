@@ -1,12 +1,12 @@
 # Weather Analytics Dashboard
 
 ## 1. Business Challenge
-● Weather conditions significantly impact various industries
-  ○ Transportation, agriculture, energy sectors, etc.
-● Real-time and historical weather data are often unstructured
-  ○ Difficult to analyze trends and derive useful insights
-● We can solve this by building a scalable, cloud-based Weather Analytics Dashboard
-  ○ To processes, transform, and visualize weather data efficiently.
+- Weather conditions significantly impact various industries
+  - Transportation, agriculture, energy sectors, etc.
+- Real-time and historical weather data are often unstructured
+  - Difficult to analyze trends and derive useful insights
+- We can solve this by building a scalable, cloud-based Weather Analytics Dashboard
+  - To processes, transform, and visualize weather data efficiently.
 
 ## 2. Business Solution
  We propose building an AWS-based Weather Analytics Dashboard that:
