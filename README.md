@@ -17,5 +17,5 @@
  - Enables fast querying using Amazon Athena.
  - Creates visual reports using Amazon QuickSight for data-driven decision-making.
 
-## Architechture Diagram 
+## Architecture Diagram 
 ![Weather Analytics Dashboard Pipeline](weather_dashboard_pipeline.png)
