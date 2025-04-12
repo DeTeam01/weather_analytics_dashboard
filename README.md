@@ -18,4 +18,4 @@
  - Creates visual reports using Amazon QuickSight for data-driven decision-making.
 
 ## Architecture Diagram 
-![Weather Analytics Dashboard Pipeline](weather_dashboard_pipeline.png)
+![Weather Analytics Dashboard Pipeline](AWS DE PIPELINE.png)
