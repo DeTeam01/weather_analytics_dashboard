@@ -125,12 +125,11 @@ For questions or demos, reach out at [deteam591@gmail.com].
 
 ---
 
-## 📎 Screenshot Example
+## 📎 Our Data Pipeline
 
 To add a pipeline screenshot:
-```
+
 ![DE PIPELINE](https://github.com/DeTeam01/weather_analytics_dashboard/blob/main/AWS%20DE%20PIPELINE.png)
-```
 
 ---
 
