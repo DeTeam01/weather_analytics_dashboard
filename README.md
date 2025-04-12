@@ -82,7 +82,9 @@ Open-Meteo API → AWS Glue Job 1 → S3 (CSV) → AWS Glue Job 2 (Parquet Conve
 
 ---
 
-## 📊 PowerBI Dashboard
+## 📊 Samples of our Weather Analytics Dashboard
+
+🔗 [Head over to our dashboard](https://app.powerbi.com/links/3zxUjGdfVW?ctid=3c71cbab-b5ed-4f3b-ac0d-95509d6c0e93&pbi_source=linkShare)
 
 ![PAGE 1](https://github.com/DeTeam01/weather_analytics_dashboard/blob/main/weather_dashboard_pg_1.png)
 ![PAGE 2](https://github.com/DeTeam01/weather_analytics_dashboard/blob/main/weather_dashboard_pg_2.png)
