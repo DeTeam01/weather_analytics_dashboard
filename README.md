@@ -19,7 +19,7 @@ This project is a fully automated, cloud-based pipeline designed to collect, pro
 - Washington D.C.
 
 ---
-## 📺 [Click here to checkout our Video Presentation](https://drive.google.com/file/d/1DXHibIo-Lsp5OfN9mZQCGW69VBvkLPKm/view?usp=sharing)
+## 📺 [Click here to checkout our Video Presentation](https://drive.google.com/file/d/1GdEOXCWhY3IdW2i2xUbSPKwZRr7XKRXG/view?usp=sharing)
 
 ## 🔄 Data Flow Pipeline
 
